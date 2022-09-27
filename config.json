@@ -1,11 +1,11 @@
 {
-    "ownerNumber": ["62895621838898@s.whatsapp.net","62895621838898@s.whatsapp.net"],
+    "ownerNumber": ["62895621838898@s.whatsapp.net","6288747448348@s.whatsapp.net"],
     "ownerName": "Dila Adelva",
     "instagram" : "https://instagram.com/dilaadlv",
     "botName": "DilaAdlv",
     "footer": "Dila Adelva",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/IMG_20220927_190529.jpg",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
